@@ -54,8 +54,8 @@ mern-auth/
 ## Screenshots
 
 ### Login Page
-![Login Page](./Screenshot/login.png)
-![Register Page](./Screenshot/register.png)
+![Login Page](./ScreenShot/login.png)
+![Register Page](./ScreenShot/register.png)
 
 ---
 
