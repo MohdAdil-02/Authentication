@@ -50,6 +50,13 @@ mern-auth/
     └── vite.config.js
 ```
 
+
+## Screenshots
+
+### Login Page
+![Login Page](./Screenshot/login.png)
+![Register Page](./Screenshot/register.png)
+
 ---
 
 ## Getting Started
